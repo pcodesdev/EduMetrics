@@ -3,7 +3,8 @@
  * Uses the Vite proxy (/api → http://localhost:8000/api).
  */
 
-const BASE = '/api';
+const RAW_BASE = import.meta.env.VITE_API_BASE || '/api';
+const BASE = RAW_BASE.replace(/\/+$/, '');
 
 async function request(path, options = {}) {
     const res = await fetch(`${BASE}${path}`, {

@@ -39,6 +39,35 @@ export default function App() {
     return Array.from(values).sort()
   }, [rawData])
 
+  const schoolName = useMemo(() => {
+    if (!Array.isArray(rawData) || rawData.length === 0) return ''
+    const keys = ['school_name', 'school', 'institution']
+    const counts = new Map()
+
+    rawData.forEach((row) => {
+      let value = ''
+      for (const key of keys) {
+        const candidate = row?.[key]
+        if (candidate !== null && candidate !== undefined && String(candidate).trim() !== '') {
+          value = String(candidate).trim()
+          break
+        }
+      }
+      if (!value) return
+      counts.set(value, (counts.get(value) || 0) + 1)
+    })
+
+    let best = ''
+    let bestCount = 0
+    counts.forEach((count, value) => {
+      if (count > bestCount) {
+        best = value
+        bestCount = count
+      }
+    })
+    return best
+  }, [rawData])
+
   useEffect(() => {
     if (!classOptions.length) {
       setSelectedClass('')
@@ -68,6 +97,7 @@ export default function App() {
       data,
       rawData,
       setData: setRawData,
+      schoolName,
       sessionId,
       setSessionId,
       fileName,
@@ -77,7 +107,13 @@ export default function App() {
       setSelectedClass,
     }}>
       <div className="flex h-screen overflow-hidden bg-surface">
-        <Sidebar hasData={!!data} classOptions={classOptions} selectedClass={selectedClass} setSelectedClass={setSelectedClass} />
+        <Sidebar
+          hasData={!!data}
+          schoolName={schoolName}
+          classOptions={classOptions}
+          selectedClass={selectedClass}
+          setSelectedClass={setSelectedClass}
+        />
         <main className="flex-1 min-w-0 flex flex-col">
           <div className="flex-1 overflow-y-auto">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">

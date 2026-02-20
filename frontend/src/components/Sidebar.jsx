@@ -1,4 +1,4 @@
-import { NavLink, useLocation } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 import {
     UploadCloud, LayoutDashboard, AlertTriangle, BarChart3,
     BookOpen, FileText, TrendingUp, Users,
@@ -14,9 +14,13 @@ const links = [
     { to: '/reports', icon: FileText, label: 'Reports' },
 ]
 
-export default function Sidebar({ hasData, classOptions = [], selectedClass = '', setSelectedClass = () => {} }) {
-    const location = useLocation()
-
+export default function Sidebar({
+    hasData,
+    schoolName = '',
+    classOptions = [],
+    selectedClass = '',
+    setSelectedClass = () => {},
+}) {
     return (
         <aside className="w-64 bg-brand-dark text-white flex flex-col shrink-0 shadow-2xl">
             {/* Logo */}
@@ -25,7 +29,7 @@ export default function Sidebar({ hasData, classOptions = [], selectedClass = ''
                     <img src="/edumetrics-logo.svg" alt="EduMetrics logo" className="w-10 h-10 rounded-xl object-cover" />
                     <div>
                         <h1 className="text-lg font-bold tracking-tight">EduMetrics</h1>
-                        <p className="text-xs text-white/50">Student Analytics</p>
+                        <p className="text-xs text-white/50">{schoolName || 'Student Analytics'}</p>
                     </div>
                 </div>
             </div>
