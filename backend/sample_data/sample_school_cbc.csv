@@ -1,0 +1,481 @@
+student_id,name,gender,class,subject,score,max_score,grade,grade_level,term,year,school,region,school_type
+C001,Amara Wanjiku,Female,Grade 4A,Literacy,75,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Kiswahili,72,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Mathematics,76,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Environmental Activities,80,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Creative Arts,70,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Physical Education,71,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Religious Education,83,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Home Science,78,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Literacy,75,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Kiswahili,79,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Mathematics,83,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Environmental Activities,74,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Creative Arts,88,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Physical Education,82,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Religious Education,77,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Home Science,74,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Literacy,78,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Kiswahili,83,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Mathematics,83,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Environmental Activities,78,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Creative Arts,80,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Physical Education,78,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Religious Education,85,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C001,Amara Wanjiku,Female,Grade 4A,Home Science,83,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Literacy,37,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Kiswahili,50,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Mathematics,46,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Environmental Activities,38,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Creative Arts,40,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Physical Education,47,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Religious Education,47,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Home Science,46,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Literacy,34,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Kiswahili,43,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Mathematics,43,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Environmental Activities,40,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Creative Arts,34,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Physical Education,37,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Religious Education,34,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Home Science,42,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Literacy,49,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Kiswahili,38,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Mathematics,40,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Environmental Activities,42,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Creative Arts,38,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Physical Education,44,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Religious Education,37,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C002,Ben Otieno,Male,Grade 4A,Home Science,45,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Literacy,62,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Kiswahili,66,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Mathematics,71,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Environmental Activities,68,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Creative Arts,60,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Physical Education,59,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Religious Education,67,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Home Science,67,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Literacy,71,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Kiswahili,64,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Mathematics,66,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Environmental Activities,62,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Creative Arts,69,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Physical Education,72,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Religious Education,62,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Home Science,70,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Literacy,65,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Kiswahili,74,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Mathematics,68,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Environmental Activities,72,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Creative Arts,75,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Physical Education,73,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Religious Education,71,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C003,Ciku Kamau,Female,Grade 4A,Home Science,77,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Literacy,86,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Kiswahili,88,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Mathematics,90,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Environmental Activities,95,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Creative Arts,88,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Physical Education,86,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Religious Education,85,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Home Science,84,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Literacy,95,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Kiswahili,85,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Mathematics,94,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Environmental Activities,95,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Creative Arts,86,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Physical Education,84,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Religious Education,92,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Home Science,87,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Literacy,92,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Kiswahili,91,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Mathematics,98,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Environmental Activities,89,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Creative Arts,95,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Physical Education,91,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Religious Education,88,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C004,David Njoroge,Male,Grade 4A,Home Science,93,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Literacy,26,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Kiswahili,26,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Mathematics,33,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Environmental Activities,31,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Creative Arts,27,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Physical Education,37,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Religious Education,30,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Home Science,27,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Literacy,44,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Kiswahili,37,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Mathematics,36,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Environmental Activities,30,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Creative Arts,40,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Physical Education,31,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Religious Education,42,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Home Science,38,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Literacy,45,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Kiswahili,48,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Mathematics,50,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Environmental Activities,49,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Creative Arts,41,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Physical Education,41,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Religious Education,47,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C005,Eva Chebet,Female,Grade 4A,Home Science,41,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Literacy,57,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Kiswahili,55,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Mathematics,57,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Environmental Activities,60,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Creative Arts,55,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Physical Education,49,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Religious Education,61,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Home Science,49,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Literacy,53,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Kiswahili,56,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Mathematics,60,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Environmental Activities,59,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Creative Arts,50,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Physical Education,49,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Religious Education,60,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Home Science,60,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Literacy,52,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Kiswahili,58,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Mathematics,57,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Environmental Activities,58,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Creative Arts,61,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Physical Education,55,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Religious Education,52,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C006,Felix Mutinda,Male,Grade 5A,Home Science,59,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Literacy,71,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Kiswahili,79,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Mathematics,75,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Environmental Activities,70,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Creative Arts,65,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Physical Education,72,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Religious Education,70,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Home Science,67,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Literacy,77,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Kiswahili,69,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Mathematics,75,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Environmental Activities,68,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Creative Arts,71,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Physical Education,80,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Religious Education,72,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Home Science,70,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Literacy,81,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Kiswahili,73,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Mathematics,76,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Environmental Activities,76,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Creative Arts,84,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Physical Education,83,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Religious Education,77,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C007,Gloria Adhiambo,Female,Grade 5A,Home Science,71,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Literacy,36,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Kiswahili,41,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Mathematics,40,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Environmental Activities,42,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Creative Arts,38,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Physical Education,48,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Religious Education,36,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Home Science,47,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Literacy,38,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Kiswahili,45,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Mathematics,40,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Environmental Activities,36,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Creative Arts,43,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Physical Education,38,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Religious Education,37,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Home Science,42,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Literacy,43,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Kiswahili,35,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Mathematics,32,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Environmental Activities,31,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Creative Arts,30,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Physical Education,31,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Religious Education,31,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C008,Henry Mwangi,Male,Grade 5A,Home Science,32,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Literacy,64,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Kiswahili,57,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Mathematics,54,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Environmental Activities,61,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Creative Arts,67,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Physical Education,63,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Religious Education,56,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Home Science,58,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Literacy,56,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Kiswahili,52,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Mathematics,54,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Environmental Activities,58,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Creative Arts,60,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Physical Education,57,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Religious Education,61,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Home Science,61,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Literacy,61,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Kiswahili,58,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Mathematics,67,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Environmental Activities,69,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Creative Arts,64,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Physical Education,65,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Religious Education,66,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C009,Ivy Kipchoge,Female,Grade 5A,Home Science,66,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Literacy,82,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Kiswahili,71,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Mathematics,78,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Environmental Activities,85,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Creative Arts,84,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Physical Education,83,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Religious Education,84,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Home Science,81,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Literacy,87,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Kiswahili,83,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Mathematics,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Environmental Activities,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Creative Arts,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Physical Education,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Religious Education,76,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Home Science,82,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Literacy,88,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Kiswahili,84,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Mathematics,78,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Environmental Activities,81,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Creative Arts,79,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Physical Education,81,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Religious Education,85,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C010,Joel Ngugi,Male,Grade 5A,Home Science,80,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Literacy,79,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Kiswahili,83,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Mathematics,87,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Environmental Activities,78,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Creative Arts,79,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Physical Education,78,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Religious Education,87,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Home Science,80,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Literacy,88,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Kiswahili,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Mathematics,85,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Environmental Activities,89,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Creative Arts,80,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Physical Education,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Religious Education,93,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Home Science,83,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Literacy,90,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Kiswahili,87,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Mathematics,83,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Environmental Activities,91,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Creative Arts,85,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Physical Education,86,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Religious Education,90,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C011,Karin Mugo,Female,Grade 5B,Home Science,86,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Literacy,48,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Kiswahili,42,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Mathematics,42,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Environmental Activities,54,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Creative Arts,48,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Physical Education,48,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Religious Education,48,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Home Science,48,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Literacy,48,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Kiswahili,45,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Mathematics,46,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Environmental Activities,45,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Creative Arts,55,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Physical Education,49,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Religious Education,55,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Home Science,48,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Literacy,56,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Kiswahili,62,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Mathematics,60,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Environmental Activities,51,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Creative Arts,57,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Physical Education,49,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Religious Education,52,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C012,Leon Odhiambo,Male,Grade 5B,Home Science,57,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Literacy,65,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Kiswahili,62,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Mathematics,71,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Environmental Activities,68,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Creative Arts,74,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Physical Education,60,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Religious Education,72,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Home Science,68,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Literacy,66,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Kiswahili,72,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Mathematics,75,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Environmental Activities,63,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Creative Arts,73,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Physical Education,75,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Religious Education,66,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Home Science,70,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Literacy,70,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Kiswahili,79,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Mathematics,67,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Environmental Activities,70,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Creative Arts,77,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Physical Education,68,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Religious Education,73,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C013,Mercy Njeri,Female,Grade 5B,Home Science,73,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Literacy,35,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Kiswahili,31,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Mathematics,28,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Environmental Activities,33,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Creative Arts,26,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Physical Education,32,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Religious Education,35,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Home Science,35,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Literacy,33,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Kiswahili,34,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Mathematics,24,100,BE,1,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Environmental Activities,33,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Creative Arts,24,100,BE,1,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Physical Education,34,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Religious Education,27,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Home Science,32,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Literacy,30,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Kiswahili,21,100,BE,1,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Mathematics,21,100,BE,1,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Environmental Activities,26,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Creative Arts,25,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Physical Education,23,100,BE,1,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Religious Education,29,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C014,Nathan Kiptoo,Male,Grade 5B,Home Science,18,100,BE,1,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Literacy,67,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Kiswahili,79,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Mathematics,71,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Environmental Activities,74,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Creative Arts,71,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Physical Education,70,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Religious Education,78,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Home Science,76,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Literacy,75,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Kiswahili,77,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Mathematics,82,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Environmental Activities,84,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Creative Arts,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Physical Education,75,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Religious Education,75,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Home Science,71,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Literacy,77,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Kiswahili,75,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Mathematics,77,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Environmental Activities,81,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Creative Arts,77,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Physical Education,79,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Religious Education,77,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C015,Olive Waweru,Female,Grade 5B,Home Science,81,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Literacy,52,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Kiswahili,57,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Mathematics,52,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Environmental Activities,56,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Creative Arts,43,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Physical Education,50,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Religious Education,57,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Home Science,53,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Literacy,50,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Kiswahili,57,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Mathematics,55,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Environmental Activities,46,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Creative Arts,58,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Physical Education,55,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Religious Education,46,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Home Science,59,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Literacy,52,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Kiswahili,58,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Mathematics,57,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Environmental Activities,58,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Creative Arts,49,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Physical Education,53,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Religious Education,60,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C016,Paul Otieno,Male,Grade 6A,Home Science,48,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Literacy,61,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Kiswahili,67,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Mathematics,65,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Environmental Activities,60,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Creative Arts,56,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Physical Education,67,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Religious Education,66,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Home Science,61,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Literacy,61,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Kiswahili,60,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Mathematics,65,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Environmental Activities,55,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Creative Arts,65,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Physical Education,56,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Religious Education,56,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Home Science,56,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Literacy,58,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Kiswahili,60,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Mathematics,67,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Environmental Activities,72,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Creative Arts,65,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Physical Education,70,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Religious Education,68,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C017,Queen Nyambura,Female,Grade 6A,Home Science,60,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Literacy,89,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Kiswahili,93,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Mathematics,89,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Environmental Activities,87,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Creative Arts,90,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Physical Education,94,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Religious Education,85,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Home Science,82,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Literacy,89,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Kiswahili,89,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Mathematics,83,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Environmental Activities,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Creative Arts,81,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Physical Education,93,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Religious Education,92,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Home Science,91,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Literacy,84,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Kiswahili,91,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Mathematics,94,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Environmental Activities,97,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Creative Arts,85,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Physical Education,89,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Religious Education,96,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C018,Rex Kibet,Male,Grade 6A,Home Science,86,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Literacy,44,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Kiswahili,44,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Mathematics,34,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Environmental Activities,31,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Creative Arts,35,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Physical Education,34,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Religious Education,35,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Home Science,39,100,AE,2,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Literacy,31,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Kiswahili,40,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Mathematics,37,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Environmental Activities,33,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Creative Arts,32,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Physical Education,36,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Religious Education,34,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Home Science,41,100,AE,2,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Literacy,28,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Kiswahili,26,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Mathematics,40,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Environmental Activities,37,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Creative Arts,31,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Physical Education,40,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Religious Education,33,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C019,Sara Akinyi,Female,Grade 6A,Home Science,36,100,AE,2,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Literacy,71,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Kiswahili,75,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Mathematics,76,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Environmental Activities,70,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Creative Arts,68,100,ME,3,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Physical Education,75,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Religious Education,76,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Home Science,76,100,EE,4,Term 1,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Literacy,72,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Kiswahili,66,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Mathematics,72,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Environmental Activities,66,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Creative Arts,72,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Physical Education,72,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Religious Education,64,100,ME,3,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Home Science,77,100,EE,4,Term 2,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Literacy,74,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Kiswahili,79,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Mathematics,69,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Environmental Activities,76,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Creative Arts,67,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Physical Education,79,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Religious Education,79,100,EE,4,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary
+C020,Tom Kariuki,Male,Grade 6A,Home Science,69,100,ME,3,Term 3,2025,Sunrise Academy,Kiambu,cbc_primary

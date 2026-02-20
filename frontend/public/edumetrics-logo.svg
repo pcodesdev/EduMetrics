@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="EduMetrics logo">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef6a71"/>
+      <stop offset="100%" stop-color="#e91e63"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="256" fill="url(#bg)"/>
+  <path fill="#000" d="M256 135 117 203l32 16v87c-11 7-18 20-18 34v66h54v-66c0-14-7-27-18-34v-70l89 43 139-68-139-76Zm-103 240h10v-35c0-4-4-8-5-8s-5 4-5 8v35Zm103-113-86 42v22l86 43 86-43v-22l-24-12-62 30-62-30v-22l-16-8Z"/>
+</svg>

@@ -1,0 +1,601 @@
+student_id,name,gender,class,subject,score,max_score,grade,term,year,school,region,school_type
+S001,Alice Mwangi,Female,Form 1A,Mathematics,73,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,English,70,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Kiswahili,78,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Biology,77,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Chemistry,77,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Physics,74,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,History,73,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Geography,72,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,CRE,83,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Computer Studies,71,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Mathematics,74,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,English,76,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Kiswahili,80,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Biology,81,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Chemistry,90,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Physics,74,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,History,80,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Geography,87,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,CRE,81,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Computer Studies,88,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Mathematics,85,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,English,77,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Kiswahili,82,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Biology,90,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Chemistry,87,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Physics,85,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,History,81,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Geography,83,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,CRE,87,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S001,Alice Mwangi,Female,Form 1A,Computer Studies,80,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Mathematics,36,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,English,46,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Kiswahili,37,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Biology,45,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Chemistry,45,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Physics,42,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,History,35,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Geography,48,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,CRE,37,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Computer Studies,46,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Mathematics,33,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,English,40,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Kiswahili,42,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Biology,37,100,D,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Chemistry,33,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Physics,32,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,History,38,100,D,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Geography,40,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,CRE,33,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Computer Studies,38,100,D,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Mathematics,32,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,English,41,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Kiswahili,37,100,D,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Biology,43,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Chemistry,40,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Physics,34,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,History,40,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Geography,40,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,CRE,35,100,D,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S002,Brian Ochieng,Male,Form 1A,Computer Studies,37,100,D,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Mathematics,57,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,English,60,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Kiswahili,62,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Biology,60,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Chemistry,69,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Physics,67,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,History,63,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Geography,62,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,CRE,65,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Computer Studies,56,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Mathematics,65,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,English,59,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Kiswahili,68,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Biology,70,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Chemistry,66,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Physics,60,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,History,64,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Geography,68,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,CRE,64,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Computer Studies,73,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Mathematics,74,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,English,76,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Kiswahili,66,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Biology,70,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Chemistry,66,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Physics,69,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,History,70,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Geography,75,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,CRE,74,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S003,Catherine Njeri,Female,Form 1A,Computer Studies,73,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Mathematics,89,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,English,86,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Kiswahili,98,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Biology,97,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Chemistry,84,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Physics,83,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,History,85,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Geography,86,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,CRE,87,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Computer Studies,95,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Mathematics,86,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,English,96,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Kiswahili,96,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Biology,98,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Chemistry,100,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Physics,92,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,History,84,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Geography,87,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,CRE,92,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Computer Studies,94,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Mathematics,88,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,English,94,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Kiswahili,98,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Biology,90,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Chemistry,99,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Physics,85,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,History,93,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Geography,100,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,CRE,90,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S004,Daniel Kiprop,Male,Form 1A,Computer Studies,100,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Mathematics,28,100,E,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,English,34,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Kiswahili,41,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Biology,31,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Chemistry,29,100,E,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Physics,36,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,History,30,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Geography,41,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,CRE,25,100,E,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Computer Studies,35,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Mathematics,38,100,D,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,English,23,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Kiswahili,26,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Biology,34,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Chemistry,32,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Physics,30,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,History,24,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Geography,30,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,CRE,25,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Computer Studies,25,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Mathematics,43,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,English,30,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Kiswahili,32,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Biology,32,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Chemistry,43,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Physics,33,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,History,36,100,D,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Geography,44,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,CRE,41,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S005,Esther Wambui,Female,Form 1A,Computer Studies,34,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Mathematics,53,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,English,56,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Kiswahili,59,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Biology,58,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Chemistry,61,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Physics,63,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,History,61,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Geography,50,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,CRE,54,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Computer Studies,54,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Mathematics,50,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,English,58,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Kiswahili,48,100,C-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Biology,55,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Chemistry,55,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Physics,48,100,C-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,History,50,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Geography,49,100,C-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,CRE,55,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Computer Studies,50,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Mathematics,48,100,C-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,English,57,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Kiswahili,49,100,C-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Biology,63,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Chemistry,54,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Physics,55,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,History,62,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Geography,53,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,CRE,51,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S006,Francis Mutua,Male,Form 1B,Computer Studies,62,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Mathematics,70,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,English,78,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Kiswahili,76,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Biology,69,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Chemistry,66,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Physics,66,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,History,76,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Geography,74,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,CRE,76,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Computer Studies,76,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Mathematics,80,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,English,67,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Kiswahili,69,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Biology,67,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Chemistry,78,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Physics,76,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,History,69,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Geography,73,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,CRE,72,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Computer Studies,72,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Mathematics,82,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,English,72,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Kiswahili,81,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Biology,73,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Chemistry,76,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Physics,82,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,History,75,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Geography,70,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,CRE,82,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S007,Grace Akinyi,Female,Form 1B,Computer Studies,71,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Mathematics,33,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,English,32,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Kiswahili,34,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Biology,39,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Chemistry,37,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Physics,45,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,History,47,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Geography,47,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,CRE,38,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Computer Studies,44,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Mathematics,30,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,English,34,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Kiswahili,41,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Biology,29,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Chemistry,41,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Physics,37,100,D,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,History,43,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Geography,38,100,D,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,CRE,42,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Computer Studies,44,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Mathematics,29,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,English,31,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Kiswahili,34,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Biology,31,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Chemistry,26,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Physics,26,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,History,35,100,D,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Geography,26,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,CRE,26,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S008,Hassan Mohamed,Male,Form 1B,Computer Studies,40,100,D+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Mathematics,67,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,English,67,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Kiswahili,56,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Biology,52,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Chemistry,67,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Physics,53,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,History,56,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Geography,53,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,CRE,53,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Computer Studies,58,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Mathematics,61,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,English,52,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Kiswahili,56,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Biology,50,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Chemistry,51,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Physics,62,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,History,65,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Geography,59,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,CRE,57,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Computer Studies,55,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Mathematics,62,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,English,59,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Kiswahili,60,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Biology,64,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Chemistry,56,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Physics,61,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,History,66,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Geography,62,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,CRE,54,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S009,Irene Chebet,Female,Form 1B,Computer Studies,52,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Mathematics,82,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,English,71,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Kiswahili,70,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Biology,74,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Chemistry,84,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Physics,76,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,History,72,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Geography,79,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,CRE,70,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Computer Studies,75,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Mathematics,83,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,English,81,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Kiswahili,77,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Biology,86,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Chemistry,81,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Physics,88,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,History,72,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Geography,81,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,CRE,75,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Computer Studies,76,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Mathematics,83,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,English,78,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Kiswahili,78,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Biology,79,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Chemistry,83,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Physics,84,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,History,81,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Geography,85,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,CRE,81,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S010,James Kamau,Male,Form 1B,Computer Studies,83,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Mathematics,93,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,English,92,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Kiswahili,85,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Biology,78,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Chemistry,79,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Physics,90,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,History,85,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Geography,78,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,CRE,77,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Computer Studies,87,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Mathematics,83,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,English,87,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Kiswahili,84,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Biology,93,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Chemistry,92,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Physics,79,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,History,82,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Geography,81,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,CRE,83,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Computer Studies,80,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Mathematics,91,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,English,84,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Kiswahili,93,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Biology,84,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Chemistry,81,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Physics,89,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,History,91,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Geography,81,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,CRE,91,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S011,Karen Wanjiku,Female,Form 2A,Computer Studies,86,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Mathematics,46,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,English,42,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Kiswahili,50,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Biology,52,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Chemistry,43,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Physics,46,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,History,44,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Geography,44,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,CRE,52,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Computer Studies,39,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Mathematics,47,100,C-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,English,52,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Kiswahili,55,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Biology,49,100,C-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Chemistry,50,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Physics,47,100,C-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,History,45,100,C-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Geography,54,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,CRE,43,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Computer Studies,57,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Mathematics,54,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,English,53,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Kiswahili,61,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Biology,58,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Chemistry,56,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Physics,54,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,History,54,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Geography,47,100,C-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,CRE,53,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S012,Liam Otieno,Male,Form 2A,Computer Studies,59,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Mathematics,70,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,English,68,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Kiswahili,62,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Biology,68,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Chemistry,71,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Physics,76,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,History,72,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Geography,70,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,CRE,60,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Computer Studies,63,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Mathematics,70,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,English,67,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Kiswahili,70,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Biology,63,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Chemistry,65,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Physics,75,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,History,73,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Geography,72,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,CRE,75,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Computer Studies,78,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Mathematics,68,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,English,77,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Kiswahili,71,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Biology,73,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Chemistry,66,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Physics,78,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,History,65,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Geography,81,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,CRE,71,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S013,Mary Nyambura,Female,Form 2A,Computer Studies,76,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Mathematics,34,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,English,23,100,E,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Kiswahili,31,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Biology,31,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Chemistry,24,100,E,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Physics,30,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,History,37,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Geography,30,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,CRE,34,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Computer Studies,31,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Mathematics,31,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,English,28,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Kiswahili,23,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Biology,25,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Chemistry,32,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Physics,31,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,History,24,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Geography,28,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,CRE,31,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Computer Studies,19,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Mathematics,25,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,English,25,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Kiswahili,22,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Biology,29,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Chemistry,26,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Physics,30,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,History,30,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Geography,30,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,CRE,22,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S014,Nelson Kibet,Male,Form 2A,Computer Studies,32,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Mathematics,81,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,English,71,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Kiswahili,68,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Biology,75,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Chemistry,82,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Physics,76,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,History,68,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Geography,73,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,CRE,75,100,A-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Computer Studies,73,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Mathematics,75,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,English,73,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Kiswahili,69,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Biology,70,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Chemistry,76,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Physics,84,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,History,71,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Geography,83,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,CRE,82,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Computer Studies,75,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Mathematics,85,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,English,88,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Kiswahili,85,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Biology,80,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Chemistry,77,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Physics,73,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,History,76,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Geography,86,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,CRE,80,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S015,Olive Atieno,Female,Form 2A,Computer Studies,78,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Mathematics,60,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,English,58,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Kiswahili,45,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Biology,51,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Chemistry,47,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Physics,58,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,History,48,100,C-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Geography,58,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,CRE,60,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Computer Studies,54,100,C,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Mathematics,60,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,English,62,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Kiswahili,59,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Biology,60,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Chemistry,51,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Physics,61,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,History,60,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Geography,54,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,CRE,53,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Computer Studies,54,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Mathematics,63,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,English,62,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Kiswahili,54,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Biology,55,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Chemistry,61,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Physics,49,100,C-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,History,56,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Geography,54,100,C,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,CRE,55,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S016,Peter Ngugi,Male,Form 2B,Computer Studies,57,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Mathematics,63,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,English,55,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Kiswahili,57,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Biology,57,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Chemistry,60,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Physics,65,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,History,57,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Geography,59,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,CRE,55,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Computer Studies,66,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Mathematics,65,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,English,62,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Kiswahili,66,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Biology,65,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Chemistry,53,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Physics,58,100,C+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,History,65,100,B,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Geography,64,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,CRE,52,100,C,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Computer Studies,64,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Mathematics,71,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,English,56,100,C+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Kiswahili,67,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Biology,65,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Chemistry,68,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Physics,69,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,History,63,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Geography,71,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,CRE,63,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S017,Quincy Were,Male,Form 2B,Computer Studies,64,100,B-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Mathematics,93,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,English,95,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Kiswahili,80,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Biology,92,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Chemistry,90,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Physics,92,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,History,85,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Geography,94,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,CRE,84,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Computer Studies,80,100,A,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Mathematics,93,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,English,81,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Kiswahili,83,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Biology,94,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Chemistry,85,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Physics,95,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,History,86,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Geography,82,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,CRE,89,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Computer Studies,93,100,A,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Mathematics,93,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,English,89,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Kiswahili,97,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Biology,93,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Chemistry,93,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Physics,95,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,History,91,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Geography,96,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,CRE,91,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S018,Rose Adhiambo,Female,Form 2B,Computer Studies,85,100,A,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Mathematics,44,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,English,29,100,E,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Kiswahili,30,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Biology,40,100,D+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Chemistry,36,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Physics,31,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,History,30,100,D-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Geography,29,100,E,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,CRE,36,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Computer Studies,35,100,D,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Mathematics,26,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,English,30,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Kiswahili,33,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Biology,30,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Chemistry,41,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Physics,29,100,E,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,History,32,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Geography,40,100,D+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,CRE,34,100,D-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Computer Studies,37,100,D,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Mathematics,27,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,English,25,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Kiswahili,27,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Biology,31,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Chemistry,25,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Physics,22,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,History,31,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Geography,34,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,CRE,34,100,D-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S019,Samuel Njoroge,Male,Form 2B,Computer Studies,28,100,E,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Mathematics,60,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,English,65,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Kiswahili,61,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Biology,67,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Chemistry,61,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Physics,59,100,C+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,History,69,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Geography,71,100,B+,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,CRE,69,100,B,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Computer Studies,60,100,B-,Term 1,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Mathematics,76,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,English,70,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Kiswahili,60,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Biology,73,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Chemistry,75,100,A-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Physics,63,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,History,73,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Geography,71,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,CRE,74,100,B+,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Computer Studies,64,100,B-,Term 2,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Mathematics,76,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,English,68,100,B,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Kiswahili,79,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Biology,71,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Chemistry,78,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Physics,77,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,History,76,100,A-,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Geography,71,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,CRE,73,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
+S020,Tabitha Koech,Female,Form 2B,Computer Studies,70,100,B+,Term 3,2025,Greenfield Academy,Nairobi,secondary
