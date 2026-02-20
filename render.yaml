@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: edumetrics-api
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: SCHOOL_NAME
+        value: My School
+      - key: PASS_MARK
+        value: "50"
+      - key: MAX_UPLOAD_SIZE_MB
+        value: "50"
+      - key: SERVE_UPLOADS
+        value: "false"
+      - key: CORS_ORIGINS
+        value: http://localhost:5173
