@@ -115,6 +115,13 @@ export async function getStudentProfile(studentId, data) {
     });
 }
 
+export async function getAiParentSummary(studentId, data) {
+    return json(`/analyze/ai/parent-summary/${studentId}`, {
+        method: 'POST',
+        body: JSON.stringify({ data }),
+    });
+}
+
 export async function getTermComparison(data) {
     return json('/analyze/term-comparison', {
         method: 'POST',
@@ -159,8 +166,8 @@ export function downloadClassPdf(data, className) {
         `EduMetrics_Class_Performance_${className}.pdf`);
 }
 
-export function downloadStudentPdf(data, studentId) {
-    return downloadBlob('/reports/student-pdf', { data, student_id: studentId },
+export function downloadStudentPdf(data, studentId, parentSummary = null) {
+    return downloadBlob('/reports/student-pdf', { data, student_id: studentId, parent_summary: parentSummary },
         `EduMetrics_Student_${studentId}.pdf`);
 }
 
@@ -180,8 +187,8 @@ export async function openClassPdf(data, className) {
     return url;
 }
 
-export async function openStudentPdf(data, studentId) {
-    const url = await getBlobUrl('/reports/student-pdf', { data, student_id: studentId });
+export async function openStudentPdf(data, studentId, parentSummary = null) {
+    const url = await getBlobUrl('/reports/student-pdf', { data, student_id: studentId, parent_summary: parentSummary });
     window.open(url, '_blank', 'noopener,noreferrer');
     return url;
 }

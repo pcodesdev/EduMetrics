@@ -1,12 +1,12 @@
-import { useState, useMemo } from 'react'
+import { useState, useMemo, useEffect } from 'react'
 import { useData } from '../App'
 import {
     downloadClassPdf, downloadStudentPdf, downloadExcel,
-    openClassPdf, openStudentPdf,
+    openClassPdf, openStudentPdf, getAiParentSummary,
 } from '../api'
 import {
     FileText, Download, Loader2, CheckCircle, AlertCircle,
-    Users, User, Table, Eye, Printer,
+    Users, User, Table, Eye, Printer, Sparkles,
 } from 'lucide-react'
 
 function ReportCard({
@@ -69,6 +69,7 @@ export default function Reports() {
     const [selectedClass, setSelectedClass] = useState('')
     const [selectedStudent, setSelectedStudent] = useState('')
     const [studentQuery, setStudentQuery] = useState('')
+    const [parentSummary, setParentSummary] = useState(null)
 
     // Extract unique classes and students from data
     const { classes, students } = useMemo(() => {
@@ -123,6 +124,10 @@ export default function Reports() {
         return partial.length === 1 ? partial[0].id : ''
     }, [selectedStudent, studentQuery, students])
 
+    useEffect(() => {
+        setParentSummary(null)
+    }, [resolvedStudentId])
+
     const generate = async (key, fn) => {
         setLoading(l => ({ ...l, [key]: true }))
         setErrors(e => ({ ...e, [key]: null }))
@@ -136,6 +141,39 @@ export default function Reports() {
         } finally {
             setLoading(l => ({ ...l, [key]: false }))
         }
+    }
+
+    const generateAiSummary = async () => {
+        if (!resolvedStudentId) return
+        setLoading(l => ({ ...l, aiSummary: true }))
+        setErrors(e => ({ ...e, aiSummary: null }))
+        try {
+            const result = await getAiParentSummary(resolvedStudentId, data)
+            setParentSummary({
+                summary: String(result?.summary || '').trim(),
+                strengths: Array.isArray(result?.strengths) ? result.strengths : [],
+                concerns: Array.isArray(result?.concerns) ? result.concerns : [],
+                recommendations: Array.isArray(result?.recommendations) ? result.recommendations : [],
+                mode: result?.mode || 'deterministic',
+            })
+            setDone(d => ({ ...d, aiSummary: true }))
+            setTimeout(() => setDone(d => ({ ...d, aiSummary: false })), 3000)
+        } catch (e) {
+            setErrors(er => ({ ...er, aiSummary: e.message }))
+        } finally {
+            setLoading(l => ({ ...l, aiSummary: false }))
+        }
+    }
+
+    const updateListItem = (key, index, value) => {
+        setParentSummary(prev => {
+            if (!prev) return prev
+            const next = { ...prev }
+            const list = Array.isArray(next[key]) ? [...next[key]] : []
+            list[index] = value
+            next[key] = list
+            return next
+        })
     }
 
     return (
@@ -261,7 +299,7 @@ export default function Reports() {
                             </select>
                             <div className="flex items-center gap-2">
                                 <button
-                                    onClick={() => generate('student', () => openStudentPdf(data, resolvedStudentId))}
+                                    onClick={() => generate('student', () => openStudentPdf(data, resolvedStudentId, parentSummary))}
                                     disabled={loading.student || !resolvedStudentId}
                                     className="flex items-center gap-2 px-3 py-2.5 rounded-lg text-sm font-medium
                                                border border-brand-accent text-brand-accent hover:bg-brand-accent/10 transition-colors
@@ -271,7 +309,7 @@ export default function Reports() {
                                     Preview/Print
                                 </button>
                                 <button
-                                    onClick={() => generate('student', () => downloadStudentPdf(data, resolvedStudentId))}
+                                    onClick={() => generate('student', () => downloadStudentPdf(data, resolvedStudentId, parentSummary))}
                                     disabled={loading.student || !resolvedStudentId}
                                 className="flex items-center gap-2 px-4 py-2.5 rounded-lg text-sm font-medium
                                            bg-brand-accent text-white hover:bg-brand-dark transition-colors shadow-md shadow-brand-accent/20
@@ -288,6 +326,70 @@ export default function Reports() {
                             )}
                         </div>
                     </div>
+                </div>
+
+                {/* AI Parent Summary (editable before export) */}
+                <div className="bg-card rounded-xl shadow-sm border border-gray-100 p-6">
+                    <div className="flex items-start gap-4 flex-wrap">
+                        <div className="w-12 h-12 rounded-xl bg-brand-accent/10 flex items-center justify-center shrink-0">
+                            <Sparkles size={22} className="text-brand-accent" />
+                        </div>
+                        <div className="flex-1 min-w-0">
+                            <h3 className="text-sm font-semibold text-gray-800">AI Parent Summary (Editable)</h3>
+                            <p className="text-xs text-gray-500 mt-1">
+                                Generate a parent-friendly summary and edit it before exporting the student report card PDF.
+                            </p>
+                            {errors.aiSummary && (
+                                <div className="flex items-center gap-1.5 mt-2 text-xs text-danger">
+                                    <AlertCircle size={12} /> {errors.aiSummary}
+                                </div>
+                            )}
+                            {done.aiSummary && (
+                                <div className="flex items-center gap-1.5 mt-2 text-xs text-success">
+                                    <CheckCircle size={12} /> Summary ready!
+                                </div>
+                            )}
+                            <button
+                                onClick={generateAiSummary}
+                                disabled={loading.aiSummary || !resolvedStudentId}
+                                className="mt-3 inline-flex items-center gap-2 px-3 py-2 rounded-lg text-xs font-medium border border-brand-accent text-brand-accent hover:bg-brand-accent/10 disabled:opacity-50 disabled:cursor-not-allowed"
+                            >
+                                {loading.aiSummary ? <Loader2 size={14} className="animate-spin" /> : <Sparkles size={14} />}
+                                Generate Summary
+                            </button>
+                            {parentSummary?.mode && (
+                                <p className="mt-2 text-[11px] text-gray-500">Mode: {parentSummary.mode}</p>
+                            )}
+                        </div>
+                    </div>
+
+                    {parentSummary && (
+                        <div className="mt-4 grid grid-cols-1 gap-3">
+                            <div>
+                                <label className="text-xs font-semibold text-gray-700">Summary</label>
+                                <textarea
+                                    value={parentSummary.summary || ''}
+                                    onChange={(e) => setParentSummary(prev => ({ ...(prev || {}), summary: e.target.value }))}
+                                    rows={3}
+                                    className="mt-1 w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-brand-accent/30"
+                                />
+                            </div>
+
+                            <div>
+                                <label className="text-xs font-semibold text-gray-700">Recommendations</label>
+                                <div className="mt-1 space-y-2">
+                                    {(parentSummary.recommendations || []).map((rec, idx) => (
+                                        <input
+                                            key={`rec-${idx}`}
+                                            value={rec}
+                                            onChange={(e) => updateListItem('recommendations', idx, e.target.value)}
+                                            className="w-full rounded-lg border border-gray-200 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-brand-accent/30"
+                                        />
+                                    ))}
+                                </div>
+                            </div>
+                        </div>
+                    )}
                 </div>
 
                 {/* Excel Export */}

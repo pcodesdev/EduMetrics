@@ -810,6 +810,7 @@ def generate_student_report_pdf(
     student_id: str,
     df: pd.DataFrame,
     pass_mark: int = 50,
+    parent_summary: Optional[Dict[str, Any]] = None,
 ):
     """Generate a parent-friendly 2-page student report card PDF."""
     st = _styles()
@@ -875,6 +876,20 @@ def generate_student_report_pdf(
         "2. Maintain a daily study timetable and complete all assignments on time.",
         "3. Attend remedial/consultation sessions and track progress after each assessment.",
     ]
+
+    # Optional AI/edited summary overrides from request payload.
+    if isinstance(parent_summary, dict):
+        summary_text = str(parent_summary.get("summary", "")).strip()
+        recommendations = parent_summary.get("recommendations", [])
+        if summary_text:
+            teacher_remark = summary_text
+        if isinstance(recommendations, list):
+            cleaned = [str(r).strip() for r in recommendations if str(r).strip()]
+            if cleaned:
+                teacher_recommendations = [
+                    rec if rec[:2].isdigit() and rec[1] == "." else f"{idx + 1}. {rec}"
+                    for idx, rec in enumerate(cleaned[:5])
+                ]
 
     # ── PAGE 1: Identity + simple summary + visual ─────────────────
     story.append(Paragraph(school_value, st["title"]))

@@ -147,6 +147,7 @@ async def student_report_pdf(payload: dict):
     """Generate an individual student report card PDF."""
     data = payload.get("data")
     student_id = payload.get("student_id")
+    parent_summary = payload.get("parent_summary")
     if not data or not student_id:
         raise HTTPException(400, "Provide 'data' and 'student_id'.")
 
@@ -162,6 +163,7 @@ async def student_report_pdf(payload: dict):
         student_id=student_id,
         df=df,
         pass_mark=PASS_MARK,
+        parent_summary=parent_summary if isinstance(parent_summary, dict) else None,
     )
 
     return FileResponse(
