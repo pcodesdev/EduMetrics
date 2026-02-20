@@ -3,7 +3,13 @@ Open-source student performance analytics platform for schools, classes, and ind
 
 EduMetrics helps you upload assessment data, clean it, generate transparent insights, and produce printable reports with charts. The analytics engine is deterministic and statistics-based (no LLM dependency for scoring logic).
 
-## Table of Contents
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react&logoColor=111111)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-Build-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![License](https://img.shields.io/badge/License-Open--Source-black)](#license-and-disclaimer)
+
+## 📚 Table of Contents
 - Overview
 - Key Features
 - Tech Stack
@@ -24,7 +30,7 @@ EduMetrics helps you upload assessment data, clean it, generate transparent insi
 - Contributing
 - License and Disclaimer
 
-## Overview
+## 🧭 Overview
 EduMetrics is built as a full-stack web app:
 - Backend: FastAPI + pandas/scipy/report generation.
 - Frontend: React + Vite + Tailwind + Recharts.
@@ -37,7 +43,7 @@ The app supports:
 - Student profile drilldowns.
 - Class and student report exports (PDF), plus Excel export.
 
-## Key Features
+## ✨ Key Features
 - Upload + mapping workflow for wide/long exam data.
 - Class-scoped analytics across the app.
 - At-risk student detection and explainable factors.
@@ -50,7 +56,7 @@ The app supports:
 - Branding, favicon, footer links.
 - SEO metadata + optional GA4 analytics.
 
-## Tech Stack
+## 🛠️ Tech Stack
 ### Backend
 - Python 3.11
 - FastAPI
@@ -66,7 +72,7 @@ The app supports:
 - React Router
 - Lucide icons
 
-## Project Structure
+## 🗂️ Project Structure
 ```text
 EduMetrics/
   backend/
@@ -90,7 +96,7 @@ EduMetrics/
   .env.example
 ```
 
-## Data Flow
+## 🔄 Data Flow
 1. Upload file (`/api/upload/file`).
 2. Auto-detect layout and suggest mapping.
 3. Confirm mapping (`/api/upload/confirm-mapping`).
@@ -98,7 +104,7 @@ EduMetrics/
 5. Use cleaned payload in analytics/report endpoints.
 6. Render dashboards and generate exports.
 
-## Security and Data Lifecycle
+## 🔐 Security and Data Lifecycle
 ### What gets deleted
 - Session data in memory is purged:
   - immediately after confirm-mapping response,
@@ -114,19 +120,19 @@ EduMetrics/
 - `SERVE_UPLOADS=false` by default (safer; no static `/uploads` mount).
 - CORS is env-driven (`CORS_ORIGINS`).
 
-## Grading Model
+## 🎯 Grading Model
 The app uses a universal grading model globally:
 - `A, B, C, D, E, F`
 - No Kenya-specific grading dependency in final outputs.
 
 Term ordering is normalized and deterministic (`Term 1`, `Term 2`, `Term 3`), with robust matching across formatting variants.
 
-## Requirements
+## 📦 Requirements
 - Python 3.11+
 - Node.js 18+
 - npm 9+
 
-## Quick Start (Local)
+## 🚀 Quick Start (Local)
 ### 1. Backend
 ```bash
 cd backend
@@ -151,7 +157,7 @@ npm run dev
 
 Frontend runs at `http://localhost:5173`.
 
-## Configuration
+## ⚙️ Configuration
 Root `.env.example` contains backend defaults:
 ```env
 SCHOOL_NAME=My School
@@ -171,7 +177,7 @@ VITE_SITE_URL=https://example.com
 VITE_GA_MEASUREMENT_ID=
 ```
 
-## API Overview
+## 🔌 API Overview
 Base: `/api`
 
 ### Upload
@@ -202,7 +208,7 @@ Base: `/api`
 - `POST /reports/student-pdf`
 - `POST /reports/excel`
 
-## Frontend SEO and Analytics
+## 📈 Frontend SEO and Analytics
 ### SEO
 - Static SEO tags in `frontend/index.html`.
 - Dynamic route-aware titles/descriptions/canonical in:
@@ -219,7 +225,7 @@ VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX
 ```
 Pageview tracking is automatic on route changes.
 
-## Reports
+## 🧾 Reports
 Supported outputs:
 - Class Performance Report (PDF)
 - Student Report Card (PDF)
@@ -229,7 +235,7 @@ Current behavior:
 - Reports can be previewed in browser for printing.
 - Files are deleted server-side right after response is sent.
 
-## Testing
+## ✅ Testing
 Backend tests are under `backend/tests`.
 
 From `backend/`:
@@ -237,7 +243,7 @@ From `backend/`:
 pytest
 ```
 
-## Deployment Notes
+## ☁️ Deployment Notes
 ### Docker
 There is a `docker-compose.yml`, but currently:
 - `backend` service is defined and has a Dockerfile.
@@ -254,7 +260,7 @@ Recommended options:
 - Update `frontend/public/sitemap.xml` domain.
 - Add `VITE_GA_MEASUREMENT_ID` if analytics is desired.
 
-## Troubleshooting
+## 🧯 Troubleshooting
 ### “Term 1 data missing” or “insufficient data” in term comparison
 - Ensure term values are present and consistent.
 - Current backend normalizes term labels (e.g., `term 1`, `T1`, ` Term 1 ` -> `Term 1`).
@@ -265,14 +271,14 @@ Recommended options:
 ### SEO build warnings about `%VITE_SITE_URL%`
 - Resolved by using safe static defaults in `index.html` and runtime overrides.
 
-## Roadmap Ideas
+## 🗺️ Roadmap Ideas
 - Add frontend Dockerfile and fully verified compose flow.
 - Add OpenAPI documentation examples per endpoint.
 - Add role-based access and authentication.
 - Add persistent audit logs for report generation.
 - Add i18n and localization.
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome:
 - Open an issue for bugs/feature requests.
 - Submit a PR with a clear description and test notes.
@@ -284,5 +290,5 @@ Useful links:
 - Medium: https://medium.com/@pcodesdev
 - Email: pcodesdev@gmail.com
 
-## License and Disclaimer
+## ⚖️ License and Disclaimer
 EduMetrics is open-source software provided "as is", without warranty of any kind, express or implied. Use in educational decision-making should include human review and institutional policy checks.
