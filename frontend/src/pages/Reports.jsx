@@ -33,7 +33,7 @@ function ReportCard({
                         </div>
                     )}
                 </div>
-                <div className="flex items-center gap-2 shrink-0">
+                <div className="flex items-center gap-2 shrink-0 flex-wrap">
                     <button
                         onClick={onPreview}
                         disabled={loading || disablePreview}
@@ -168,11 +168,11 @@ export default function Reports() {
                                 </div>
                             )}
                         </div>
-                        <div className="flex items-center gap-2 shrink-0">
+                        <div className="flex items-center gap-2 shrink-0 flex-wrap w-full lg:w-auto">
                             <select
                                 value={selectedClass}
                                 onChange={e => setSelectedClass(e.target.value)}
-                                className="text-sm px-3 py-2.5 rounded-lg border border-gray-200
+                                className="text-sm px-3 py-2.5 rounded-lg border border-gray-200 min-w-[10rem] flex-1 sm:flex-none
                                            focus:outline-none focus:ring-2 focus:ring-brand-accent/30"
                             >
                                 <option value="">Select class…</option>
@@ -222,7 +222,7 @@ export default function Reports() {
                                 </div>
                             )}
                         </div>
-                        <div className="flex flex-col gap-2 shrink-0 w-[360px]">
+                        <div className="flex flex-col gap-2 shrink-0 w-full lg:w-[360px]">
                             <input
                                 value={studentQuery}
                                 onChange={e => {

@@ -20,9 +20,11 @@ export default function Sidebar({
     classOptions = [],
     selectedClass = '',
     setSelectedClass = () => {},
+    className = '',
+    onNavigate = () => {},
 }) {
     return (
-        <aside className="w-64 bg-brand-dark text-white flex flex-col shrink-0 shadow-2xl">
+        <aside className={`w-64 bg-brand-dark text-white flex flex-col shrink-0 shadow-2xl ${className}`}>
             {/* Logo */}
             <div className="px-6 py-6 border-b border-white/10">
                 <div className="flex items-center gap-3">
@@ -59,7 +61,13 @@ export default function Sidebar({
                         <NavLink
                             key={to}
                             to={disabled ? '#' : to}
-                            onClick={e => disabled && e.preventDefault()}
+                            onClick={e => {
+                                if (disabled) {
+                                    e.preventDefault()
+                                    return
+                                }
+                                onNavigate()
+                            }}
                             className={({ isActive }) =>
                                 `flex items-center gap-3 px-4 py-2.5 rounded-lg text-sm font-medium transition-all duration-200 ${isActive && !disabled
                                     ? 'bg-brand-highlight text-white shadow-lg shadow-brand-highlight/20'

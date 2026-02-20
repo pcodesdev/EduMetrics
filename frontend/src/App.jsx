@@ -1,5 +1,6 @@
 import { useState, useMemo, useEffect, createContext, useContext, lazy, Suspense } from 'react'
 import { Routes, Route, Navigate, useLocation } from 'react-router-dom'
+import { Menu, X } from 'lucide-react'
 import Sidebar from './components/Sidebar'
 import { applyRouteInstrumentation } from './lib/siteInstrumentation'
 
@@ -26,6 +27,7 @@ export default function App() {
   const [sessionId, setSessionId] = useState(null) // upload session_id
   const [fileName, setFileName] = useState('')
   const [selectedClass, setSelectedClass] = useState('')
+  const [mobileNavOpen, setMobileNavOpen] = useState(false)
 
   const classOptions = useMemo(() => {
     if (!Array.isArray(rawData) || rawData.length === 0) return []
@@ -92,6 +94,10 @@ export default function App() {
     applyRouteInstrumentation(location.pathname)
   }, [location.pathname])
 
+  useEffect(() => {
+    setMobileNavOpen(false)
+  }, [location.pathname])
+
   return (
     <DataContext.Provider value={{
       data,
@@ -106,17 +112,65 @@ export default function App() {
       selectedClass,
       setSelectedClass,
     }}>
-      <div className="flex h-screen overflow-hidden bg-surface">
-        <Sidebar
-          hasData={!!data}
-          schoolName={schoolName}
-          classOptions={classOptions}
-          selectedClass={selectedClass}
-          setSelectedClass={setSelectedClass}
-        />
+      <div className="min-h-screen bg-surface lg:h-screen lg:overflow-hidden">
+        {mobileNavOpen && (
+          <div
+            className="fixed inset-0 z-40 bg-black/40 lg:hidden"
+            onClick={() => setMobileNavOpen(false)}
+            aria-hidden="true"
+          />
+        )}
+        <div className="flex min-h-screen lg:h-screen">
+          <Sidebar
+            hasData={!!data}
+            schoolName={schoolName}
+            classOptions={classOptions}
+            selectedClass={selectedClass}
+            setSelectedClass={setSelectedClass}
+            className="hidden lg:flex"
+          />
+          <div
+            className={`fixed inset-y-0 left-0 z-50 w-72 max-w-[86vw] transform transition-transform duration-200 lg:hidden ${mobileNavOpen ? 'translate-x-0' : '-translate-x-full'}`}
+          >
+            <div className="relative h-full">
+              <button
+                type="button"
+                onClick={() => setMobileNavOpen(false)}
+                className="absolute right-3 top-3 z-10 rounded-md bg-white/15 p-1 text-white"
+                aria-label="Close menu"
+              >
+                <X size={16} />
+              </button>
+              <Sidebar
+                hasData={!!data}
+                schoolName={schoolName}
+                classOptions={classOptions}
+                selectedClass={selectedClass}
+                setSelectedClass={setSelectedClass}
+                className="h-full w-full"
+                onNavigate={() => setMobileNavOpen(false)}
+              />
+            </div>
+          </div>
         <main className="flex-1 min-w-0 flex flex-col">
+          <div className="sticky top-0 z-30 border-b border-gray-200 bg-white px-4 py-3 lg:hidden">
+            <div className="flex items-center justify-between gap-3">
+              <button
+                type="button"
+                onClick={() => setMobileNavOpen(true)}
+                className="rounded-lg border border-gray-200 p-2 text-gray-700"
+                aria-label="Open menu"
+              >
+                <Menu size={18} />
+              </button>
+              <div className="min-w-0 text-right">
+                <p className="truncate text-sm font-semibold text-gray-900">EduMetrics</p>
+                <p className="truncate text-xs text-gray-500">{schoolName || 'Student Analytics'}</p>
+              </div>
+            </div>
+          </div>
           <div className="flex-1 overflow-y-auto">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+            <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-4 sm:py-6">
               <Suspense fallback={<div className="py-24 text-center text-sm text-gray-500">Loading page...</div>}>
                 <Routes>
                   <Route path="/" element={<Upload />} />
@@ -150,6 +204,7 @@ export default function App() {
             </div>
           </footer>
         </main>
+        </div>
       </div>
     </DataContext.Provider>
   )
