@@ -169,6 +169,12 @@ Additional backend envs supported:
 ```env
 CORS_ORIGINS=http://localhost:5173,http://localhost:3000
 SERVE_UPLOADS=false
+AI_ENABLED=false
+AI_PROVIDER=openai
+OPENAI_API_KEY=
+OPENAI_MODEL=gpt-4o-mini
+AI_TIMEOUT_SECONDS=20
+AI_TEMPERATURE=0.2
 ```
 
 Frontend env template (`frontend/.env.example`):
@@ -199,6 +205,7 @@ Base: `/api`
 - `POST /analyze/gaps`
 - `POST /analyze/insights`
 - `POST /analyze/student/{student_id}`
+- `POST /analyze/ai/parent-summary/{student_id}`
 - `POST /analyze/term-comparison`
 - `GET /analyze/school-modes`
 

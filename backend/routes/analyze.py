@@ -13,6 +13,7 @@ from core.stats import (
 from core.risk import compute_risk_scores
 from core.gaps import compute_gap_analysis
 from core.insights import generate_all_insights
+from core.ai_insights import generate_parent_summary
 from core.kenya_grading import get_all_grade_thresholds
 
 router = APIRouter()
@@ -69,6 +70,19 @@ async def student_profile(student_id: str, payload: dict):
     df = _df_from_payload(payload)
     result = compute_student_profile(df, student_id, pass_mark=PASS_MARK)
     if result is None:
+        raise HTTPException(404, f"Student '{student_id}' not found.")
+    return result
+
+
+@router.post("/ai/parent-summary/{student_id}")
+async def ai_parent_summary(student_id: str, payload: dict):
+    """
+    Parent-friendly student summary.
+    Uses deterministic fallback by default unless AI is enabled by env vars.
+    """
+    df = _df_from_payload(payload)
+    result = generate_parent_summary(df, student_id, pass_mark=PASS_MARK)
+    if result.get("error") == "student_not_found":
         raise HTTPException(404, f"Student '{student_id}' not found.")
     return result
 
